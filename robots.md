@@ -1,0 +1,27 @@
+### Sentences for the evaluation of text-driven gesture generation in Robots
+
+- Show me what you mean.
+- Could you hand over the box to me, please?
+- The ball is over there. 
+- What do you have to say about it?
+- Close the door behind yourself
+- That includes you and you.
+- I don't know what you mean.
+- The dog was bigger than me.
+- The coffee machine is next door. 
+- Behind you!
+- You can find a chair over there.
+- Can you close the door please.
+- Pay attention!
+- I couldn't complete the task because the door was blocked.
+- You have to listen to this message first. 
+- Gimme five!
+- I hate when you talk to me like that.Stop it!
+- You need to push that button to switch on the light.
+- All of these.
+- Please step one metre to your right, to about there.
+- Put your hands down!
+- You should take the left door.
+- Everything out there.
+- Can you touch your nose like this?
+- Would you look at all that.
